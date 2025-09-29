@@ -1,0 +1,3 @@
+What is Node JS ?
+-> Node js is javascript runtime environment which is chrome v8 engine depedent.
+-> javascript run outside browser.
